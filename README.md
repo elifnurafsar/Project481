@@ -1,0 +1,1 @@
+It searchs for given integer in given array.
